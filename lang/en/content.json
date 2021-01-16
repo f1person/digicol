@@ -1,0 +1,109 @@
+{
+  "NEWSLETTER": {
+    "TITLE": "DigiCol Newsletter",
+    "DESCRIPTION": "Project news, updates, market analysis, curated artworks, and more",
+    "FORM": {
+      "EMAIL": "Enter your email here*",
+      "BUTTON": "Subscribe"
+    }
+  },
+  "FAQ": {
+    "TITLE": "FAQ",
+    "1": {
+      "TITLE": "NFT? ERC-721 tokens?",
+      "INFO": "NFT? ERC-721 tokens? NFT? ERC-721 tokens?"
+    },
+    "2": {
+      "TITLE": "Why is my my MetaMask account locked?",
+      "INFO": "OpenSea: Buy Crypto Collectibles, CryptoKitties, Decentraland, and more on Ethereum"
+    },
+    "3": {
+      "TITLE": "What is verification?",
+      "INFO": "What is verification?What is verification?What is verification?"
+    }
+  },
+  "ADVANTAGES": {
+    "HOME": {
+      "TITLE": "Join DigiCol Today !",
+      "1": {
+        "INFO": "DigiCol users can create NFTs with one click and launch them into a liquid marketplace, no coding required."
+      },
+      "2": {
+        "INFO": "Highly demanded NFTs will be frequently traded and creators will be rewarded with a share of tokens native to the platform."
+      },
+      "3": {
+        "INFO": "NFTs can be placed as a collateral to access liquidity in ETH, USDT or DGCL."
+      },
+      "4": {
+        "INFO": "With the DigiCol marketplace being underpinned by the Ethereum blockchain, ownership will be secured by a vast amount of globally distributed computing power."
+      },
+      "5": {
+        "INFO": "Collectors can showcase their NFTs and earn rewards."
+      }
+    },
+    "TOKEN": {
+      "TITLE": "Who is eligible to participate in the airdrop?",
+      "6": {
+        "TITLE": "Existing DGCL users",
+        "SUB_WORDS": "15/07/2020",
+        "INFO": "Active users will receive 2% of the total DGCL supply according to the Liquidity Mining principle: based on the previous volume on Rarible marketplace. Both buyers and sellers will receive 50%."
+      },
+      "7": {
+        "TITLE": "Remaining NFT owners",
+        "SUB_WORDS": "to be announced",
+        "INFO": "As we believe that Dune Analytics might not hold all the data, we introduced the third stage for corrections. If you haven’t found yourself on the list, but you know you have significant NFT holdings — please reach out to us! The second airdrop wave will be announced later."
+      },
+      "8": {
+        "TITLE": "Documented NFT holders/buyers",
+        "SUB_WORDS": "by Monday 20/07/2020",
+        "INFO": "In this stage, 4% will be distributed amoung Ethereum addresses of all NFTs with documented sales on Dune Analytics."
+      }
+    }
+  },
+  "HERO": {
+    "HOME": {
+      "TITLE": "DigiCol is the first community-owned NFT marketplace",
+      "DESCRIPTION": "One-Click NFT creation with no coding required. Seamlessly create your own digital collectibles and earn rewards by launching them into a liquid NFT marketplace.",
+      "CTA_PRIMARY": "Tutorial Video",
+      "CTA_SECONDARY": "Create"
+    },
+    "TOKEN": {
+      "TITLE": "Meet DGCL – DigiCol",
+      "DESCRIPTION": "We think that the best way to align platform development with customers' interests is to empower the ones who actively interact with protocol: creators and collectors",
+      "LINK": "Learn more about DGCL token "
+    }
+  },
+  "ACTION": {
+    "TOKEN_GET": {
+      "TITLE": "How you can get DGCL",
+      "DESCRIPTION": "RARI is not an investment and should be earned by active participation on the platform. 75,000 tokens are issued every week, with 50% reserved for buyers, and 50% for sellers",
+      "1": {
+        "TITLE": "Create and sell"
+      },
+      "2": {
+        "TITLE": "Collect NFTs"
+      },
+      "3": {
+        "TITLE": "Get airdrop as DGCL user"
+      },
+      "4": {
+        "TITLE": "Get airdrop as NFT holder"
+      }
+    },
+    "TOKEN_USE": {
+      "TITLE": "How to use DGCL",
+      "5": {
+        "TITLE": "Hustle in DGCL DAO"
+      },
+      "6": {
+        "TITLE": "Vote for platform upgrades"
+      },
+      "7": {
+        "TITLE": "Choose featured artworks"
+      },
+      "8": {
+        "TITLE": "Participate in moderation"
+      }
+    }
+  }
+}
